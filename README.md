@@ -14,16 +14,14 @@ Project Flow Steps:
 6. DAX Functions 
 7. Enhance UI 
 8. RLS 
-9. create workspace and provide the workspace access 
-10. publish the report to the workspace 
+9. Create and provide the workspace access 
+10. Publish the report to the workspace 
 11. Build Dashboard and Mobile view 
-12. Gateway  
-13. Schedule a refresh 
+12. Establish Gateway  
+13. Schedule daily refresh 
 14. Add roles to security 
-15. Subscribe, manage alerts 
+15. Subscribe and manage alerts 
 16. Create and deploy as an app
-17. Share the report
-
 
 Technologies: Microsoft Azure, Power BI
 
