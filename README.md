@@ -1,4 +1,4 @@
-# Churn-Analysis-using-Power-BI
+# Churn-Analysis-Power-BI
 
 Customer churn is one of the biggest expenditures of any organization. An analysis of churn would immensely help any organization to strategize their retention initiatives. Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
